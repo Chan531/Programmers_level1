@@ -4,6 +4,7 @@
 using namespace std;
 
 long long solution(long long n) {
+
     long long a = 0;
     while (a * a <= n)
     {
